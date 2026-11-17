@@ -1,0 +1,6 @@
+{
+  "name": "Preposition Logic Lab — ЭЕШ 800",
+  "description": "12-р ангийн төгсөгчдөд зориулсан B2–C1 түвшний угтвар үгийн логик зураглал, ЭЕШ-ийн урхи сорил болон Flipped Learning интерактив лаборатори.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
